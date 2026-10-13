@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Landing | Task 1 Interactive Navigation",
+  "description": "Responsive landing page featuring a fixed interactive navigation menu that transforms dynamically on scroll and hover, complete with live style inspector, code playground, and responsive drawer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
